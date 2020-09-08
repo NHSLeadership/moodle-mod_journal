@@ -1,5 +1,5 @@
 {
-    "name": "nhsla/mod_journal",
+    "name": "nhsla/journal",
     "description": "Leadership Academy version of Moodle Jorunal Plugin.",
     "type": "moodle-mod",
     "license": "OGL"
